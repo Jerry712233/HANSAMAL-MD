@@ -92,11 +92,11 @@ let mode = ethix.public ? 'public' : 'private';
               text: `╭─────────────━┈⊷
 │🤖 ʙᴏᴛ ɴᴀᴍᴇ: *HANSAMAL-MD*
 │📍 ᴠᴇʀꜱɪᴏɴ: 3.0.2
-│👨‍💻 ᴏᴡɴᴇʀ : *IMALKA*      
-│👤 ɴᴜᴍʙᴇʀ: 94711262551
+│👨‍💻 ᴏᴡɴᴇʀ : *TRISTAN*      
+│👤 ɴᴜᴍʙᴇʀ: +27634624586
 │📡 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
 │🛡 ᴍᴏᴅᴇ: *${mode}*
-│💫 ᴘʀᴇғɪx: *[Multi-Prefix]*
+│💫 ᴘʀᴇғɪx: *[.]*
 ╰─────────────━┈⊷ `
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
@@ -209,11 +209,11 @@ let mode = ethix.public ? 'public' : 'private';
 ╭─────────────━┈⊷
 │🤖 ʙᴏᴛ ɴᴀᴍᴇ: *HANSAMAL-MD*
 │📍 ᴠᴇʀꜱɪᴏɴ: 3.0.2
-│👨‍💻 ᴏᴡɴᴇʀ : *IMALKA*      
-│👤 ɴᴜᴍʙᴇʀ: 94711262551
+│👨‍💻 ᴏᴡɴᴇʀ : *TRISTAN*      
+│👤 ɴᴜᴍʙᴇʀ: 27634624586
 │💻 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
 │🛡 ᴍᴏᴅᴇ: *${mode}*
-│💫 ᴘʀᴇғɪx: *[Multi-Prefix]*
+│💫 ᴘʀᴇғɪx: *[.]*
 ╰─────────────━┈⊷ 
 ╭━❮ 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙴𝚁 ❯━╮
 ┃✰ ${prefix}𝙰𝚃𝚃𝙿
